@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity implements Connector.IConnec
 
     public void start(View v){
 
+
     }
     public void connect(View v){
         String token = "cHJvdmlzaW9uAGJoYW51QDM5OTRkOS52aWR5by5pbwA2MzcxMTQ5OTU0OAAAODE4ZTEwOWU0YWIxYTk0ZWJhMmU3ZGI2YTRlMTM3NmEwY2EwYTg3NjA1YzdhNWFlMWVmNDg2ZmY5NjA2Y2M4YWRhNmU5NDg0MTQ0MGRkMWIyMTc5YjY1ZDI1YTlhNzEy";

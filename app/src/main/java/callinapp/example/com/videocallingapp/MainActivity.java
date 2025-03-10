@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity implements Connector.IConnec
 
     }
     public void connect(View v){
-        String token = "";
+        String token = "1234567890";
         vc.connect("prod.vidyo.io",token,"User", "DemoRoom", this);
     }
     public void disconnect(View v){
